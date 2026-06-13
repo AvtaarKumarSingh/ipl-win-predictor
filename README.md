@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+# ipl-win-probability-predictor
+A machine learning project to find out the win probability of an IPL match
+=======
 # IPL Win Predictor
 
 Machine Learning based IPL Win Probability Predictor built using Python, Scikit-Learn and Streamlit.
@@ -25,3 +29,4 @@ Machine Learning based IPL Win Probability Predictor built using Python, Scikit-
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+>>>>>>> ba1cf0f7354244d01b01f89f2443561a14926a0b
